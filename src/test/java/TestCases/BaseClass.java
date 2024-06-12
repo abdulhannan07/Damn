@@ -19,6 +19,8 @@ import Utilities.ReadConfig;
 
 public class BaseClass {
 	//adding first comment
+	//adding second comment from class
+	
 	public static  ReadConfig rd=new ReadConfig();
 	
 	public static Logger logger;
