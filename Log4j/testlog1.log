@@ -1,0 +1,23 @@
+2024-06-12 05:54:58,100 [main] INFO selenium project - enter url
+2024-06-12 05:55:05,394 [main] INFO selenium project - entered username
+2024-06-12 05:55:05,558 [main] INFO selenium project - entered password
+2024-06-12 05:55:08,381 [main] INFO selenium project - submit login button
+2024-06-12 05:55:11,269 [main] INFO selenium project - test case passed
+2024-06-12 05:55:14,847 [main] INFO selenium project - close driver
+2024-06-12 05:56:15,509 [main] INFO selenium project - enter url
+2024-06-12 05:56:28,725 [main] INFO selenium project - enter username
+2024-06-12 05:56:29,169 [main] INFO selenium project - enter password
+2024-06-12 05:56:29,315 [main] INFO selenium project - submit button
+2024-06-12 05:56:36,372 [main] INFO selenium project - test case passed
+2024-06-12 05:56:39,294 [main] INFO selenium project - enter username
+2024-06-12 05:56:40,584 [main] INFO selenium project - enter password
+2024-06-12 05:56:40,748 [main] INFO selenium project - submit button
+2024-06-12 05:56:43,913 [main] INFO selenium project - enter username
+2024-06-12 05:56:44,020 [main] INFO selenium project - enter username
+2024-06-12 05:56:45,988 [main] INFO selenium project - enter password
+2024-06-12 05:56:46,155 [main] INFO selenium project - submit button
+2024-06-12 05:56:49,156 [main] INFO selenium project - enter username
+2024-06-12 05:56:49,219 [main] INFO selenium project - enter username
+2024-06-12 05:56:50,985 [main] INFO selenium project - enter password
+2024-06-12 05:56:51,179 [main] INFO selenium project - submit button
+2024-06-12 05:56:54,236 [main] INFO selenium project - close driver
