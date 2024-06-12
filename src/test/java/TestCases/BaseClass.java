@@ -18,7 +18,7 @@ import org.testng.annotations.BeforeClass;
 import Utilities.ReadConfig;
 
 public class BaseClass {
-	
+	//adding first comment
 	public static  ReadConfig rd=new ReadConfig();
 	
 	public static Logger logger;
